@@ -1,0 +1,23 @@
+{
+  "name": "devcamp-pizza365-example-call",
+  "version": "1.0.0",
+  "description": "devcamp pizza365 example call",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/devcamp120.r2112/exercise/duydt/devcamp-pizza365-example-call.git"
+  },
+  "author": "duydt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/devcamp120.r2112/exercise/duydt/devcamp-pizza365-example-call/issues"
+  },
+  "homepage": "https://gitlab.com/devcamp120.r2112/exercise/duydt/devcamp-pizza365-example-call#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
